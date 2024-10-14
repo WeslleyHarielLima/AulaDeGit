@@ -1,1 +1,3 @@
 # AulaDeGit
+
+Adicionando configurações Github
